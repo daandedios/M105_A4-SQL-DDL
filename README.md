@@ -1,7 +1,7 @@
 # M105_A4-SQL-DDL
 Aufgabe A4-SLQ-DDL
 
-Im Fenster oben Könnt ihr die Aufgbae A4-SQL-DDL Downloaden oder Ansehen.
-Die Musterlösungen sind ebenso vorhanden. (Seperates SQL File)
+Im Fenster oben könnt ihr die Aufgabe A4-SQL-DDL Downloaden oder Ansehen.
+Die Musterlösungen sind ebenso vorhanden. (Separates SQL File)
 
-Bei Fragen Stehe ich euch gerne zu verfügung: "SQL.dedios@gmail.com" oder per WhatsApp.
+Bei Fragen stehe ich euch gerne zu Verfügung: "SQL.dedios@gmail.com" oder per WhatsApp.
