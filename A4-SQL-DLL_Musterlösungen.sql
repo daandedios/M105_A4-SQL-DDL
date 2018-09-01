@@ -6,6 +6,8 @@ Aufgabe: A4 - SQL-DDL
 *****************************
 ######################################
 !! Dies sind die Musterlösungen !!
+!! Aufgaben ohne Lösungen sind unter folgendem Link zu finden: https://github.com/daandedios/M105_A4-SQL-DDL/blob/master/A4-SQL-DLL_Aufgabe.sql
+!! Bei Fragen stehe ich euch gerne zu Verfügung: "SQL.dedios@gmail.com" oder per WhatsApp.
 ######################################
 */
 
