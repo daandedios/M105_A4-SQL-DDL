@@ -1,0 +1,2 @@
+# M105_A4-SQL-DDL
+Aufgabe A4-SLQ-DDL
