@@ -1,0 +1,57 @@
+/*
+*****************************
+Autor: Daan de Dios
+Datum: 2018-09-02
+WIKI: Wichtige Befehle
+*****************************
+######################################
+!! Anbei sind die Wichtigsten DDL SQL Befehle !!
+!! Bei Fragen stehe ich euch gerne zu Verfügung: "SQL.dedios@gmail.com" oder per WhatsApp. !!
+######################################
+*/
+
+
+-- Erstellen einer Datenbank
+CREATE DATABASE <DB_Name> DEFAULT CHARACTER SET utf8;
+
+-- Löschen einer Datenbank ********************
+DROP DATABASE <DB_Name>;
+
+-- Tabelle löschen
+DROP TABLE <TB_Name>;
+
+-- Datenbank löschen
+DROP DATABASE <DB_Name>;
+
+-- Datenbank anwenden *************************
+USE <DB_Name>;
+
+-- Tabelle Erstellen ***************************
+CREATE TABLE <TB_Name> (
+  COLM_Name <Datentyp(wert)> <Sonstige Angaben>
+);
+
+--Eine Attribut hinzufügen bei einer Tabelle ********
+ALTER <TB_Name>
+  ADD <Attribut>;
+
+-- Standard Wert bei einer Tabelle (row) (DEFAULT)
+CREATE TABLE auto (
+  Farbe VARCHAR(30) DEFAULT 'Silber'
+);
+
+-- Daten hinzufügen
+INSERT <TB_Name>
+  VALUES (<Daten nach der Struktur der Tabelle einfügen>);
+
+-- Variante 2
+INSERT <TB_Name> (<Attribute die mit Daten gefüllt werden sollen>)
+  VALUES (<Daten die eingefüllt werden sollen, nach der oben angegeben Struktur>);
+
+-- Attribut werte verändern
+ALTER TABLE <TB_Name>
+  MODIFY <Angepasstes Attribut>;
+
+-- Löschen eines Attributes
+ALTER TABLE <Column_Name>
+  DROP COLUMN <Column_Name>;
